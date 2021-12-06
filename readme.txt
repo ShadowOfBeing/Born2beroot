@@ -40,7 +40,7 @@ https://github.com/hanshazairi/42-born2beroot
 Переведённый чеклист проверяющего - файл checklist.txt
 Все команды, которые понадобятся при защите проекта - файл commands_for_defense.txt
 
-От вас так же потребуется объяснить при защите какая программа для чего используется, можно посмотреть описание тут https://github.com/amoriah/school21/blob/main/Born2beRoot/synopsis.txt
+От вас так же потребуется объяснить при защите какая программа для чего используется, можно посмотреть описание тут: https://github.com/amoriah/school21/blob/main/Born2beRoot/synopsis.txt
 Либо погуглить самостоятельно)
 
 ВАЖНО!!!
